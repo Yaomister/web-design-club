@@ -25,13 +25,21 @@ From now on, we will be using the terminal for creating folders and files (it's 
 
 Some Useful Commands:
 
-`pwd` - Find out the location/name of the folder currently opened in your terminal window.
-`cd folder-name` - Change directory. Allows you to move in your disk from one location to another.
-`cd ..` - Move back to the parent folder.
-`mkdir new-folder` - Create a new folder.
+1. `pwd` - Find out the location/name of the folder currently opened in your terminal window.
+2. `cd folder-name` - Change directory. Allows you to move in your disk from one location to another.
+3. `cd ..` - Move back to the parent folder.
+4. `mkdir new-folder` - Create a new folder.
 
 ## Git
 
-## Node & Npm
+Git is a version control system designed to handle everything from small to very large projects with speed and efficiency.
 
+To download it, follow this [link](https://git-scm.com/downloads)
 
+## Node JS & Npm
+
+We will be using these when we work with backend and javascript
+
+To download Node JS, follow this [link](https://nodejs.org/en/download/)
+
+To download npm, follow this [link](https://www.npmjs.com/package/download)
