@@ -50,7 +50,7 @@ The <img> tag also contains the `width` and `height` attributes, which specifies
 
 It is always a good idea of comment your code!
 
-![alt text](https://memezila.com/saveimage/Code-comments-be-like-this-is-a-stop-sign-meme-1022)
+<img src="https://memezila.com/saveimage/Code-comments-be-like-this-is-a-stop-sign-meme-1022" alt="meme" />
 
 ## Class and ID
 
