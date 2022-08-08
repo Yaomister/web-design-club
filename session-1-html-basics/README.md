@@ -46,6 +46,12 @@ The <img> tag also contains the `width` and `height` attributes, which specifies
 
 `<img src="some_file.jpg" width="500" height="600" alt = "some image">`
 
+## Commenting
+
+It is always a good idea of comment your code!
+
+![alt text](https://memezila.com/saveimage/Code-comments-be-like-this-is-a-stop-sign-meme-1022)
+
 ## Class and ID
 
 
