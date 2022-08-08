@@ -53,6 +53,14 @@ The <img> tag also contains the `width` and `height` attributes, which specifies
 
 [Here's a List of all HTMl Tags](https://www.w3schools.com/tags/default.asp)
 
+To display emojis, you must use their code from the UTF-8 alphabet (like ASCII code)
+
+For example, 'A' is 65, and 😄 is 128516.
+
+You would actually write it in html like `&#128516;`
+
+[Here's a Complete List](https://unicode.org/emoji/charts/full-emoji-list.html)
+
 ## Commenting
 
 It is always a good idea of comment your code!
