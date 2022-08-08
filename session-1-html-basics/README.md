@@ -51,6 +51,8 @@ The <img> tag also contains the `width` and `height` attributes, which specifies
 
 `<img src="some_file.jpg" width="500" height="600" alt = "some image">`
 
+[Here's a List of all HTMl Tags](https://www.w3schools.com/tags/default.asp)
+
 ## Commenting
 
 It is always a good idea of comment your code!
