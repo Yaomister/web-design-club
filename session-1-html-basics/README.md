@@ -50,7 +50,13 @@ The <img> tag also contains the `width` and `height` attributes, which specifies
 
 It is always a good idea of comment your code!
 
-![Meme](https://memegenerator.net/img/instances/74673532.jpg)
+`<!-- This is a comment -->`
+
+The shortcut in VS code is to press `cmd "/"` over the block of code you want to comment out
+
+Code with good commenting:
+
+![Meme](https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Fmobile%2F000%2F019%2F698%2F8RKAP94.jpg)
 
 ## Class and ID
 
