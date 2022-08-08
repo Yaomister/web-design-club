@@ -3,7 +3,16 @@
 
 ## What is HTML?
 
+HTML stands for Hyper Text Markup Language
+
+HTML is the standard markup language for creating Web pages
+
+HTML elements tell the browser how to display the content
+
+HTML is **NOT** a programming language, but a markup language
+
 ![Meme](https://i.imgflip.com/49j42o.jpg)
+
 
 ## HTML Documents
 
