@@ -3,11 +3,11 @@
 ** HTML Documents **
 
 
-All HTMl Documents start with a document type declaration --> '<!DOCTYPE html>'
+All HTMl Documents start with a document type declaration --> `<!DOCTYPE html>`
 
-To indicate where your HTML code starts (your "block" of code) start with a '<html>' and end with '</html>'
+To indicate where your HTML code starts (your "block" of code) start with a `<html>` and end with `</html>`
 
-The visible part of the HTML document is between  '<body>' and '</body>'
+The visible part of the HTML document is between  `<body>` and `</body>`
 
 
 
