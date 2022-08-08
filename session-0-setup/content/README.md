@@ -18,3 +18,20 @@ We will also need to download some extensions (these will make your lives a lot 
 4. Auto Rename Tag - Jun Han
 
 In addition to these, you can add a theme and icon pack to your VS code
+
+## Terminal
+
+From now on, we will be using the terminal for creating folders and files (it's faster)
+
+Some Useful Commands:
+
+`pwd` - Find out the location/name of the folder currently opened in your terminal window.
+`cd folder-name` - Change directory. Allows you to move in your disk from one location to another.
+`cd ..` - Move back to the parent folder.
+`mkdir new-folder` - Create a new folder.
+
+## Git
+
+## Node & Npm
+
+
