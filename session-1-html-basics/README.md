@@ -67,6 +67,21 @@ Code with good commenting:
 
 ## Class and ID
 
+The HTML `class`  and `id` attributes are used to specify a class and id for an HTML element.
+
+A class name can be used by multiple HTML elements, while an id name must only be used by one HTML element within the page
+
+The class attribute is often used to point to a class or id name in a style sheet. It can also be used by a JavaScript to access and manipulate elements with the specific class name.
+
+To define a tag with a class and ID:
+
+```
+<div class = "some-class-name">     </div>
+<span id = "some-id-name">     </span>
+
+```
+
+We will see applications of this very soon!
 
 ## Chrome Inspect
 
