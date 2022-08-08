@@ -24,7 +24,10 @@ These are headings tags, with `<h1>` being the largest and `<h6>` being the leas
 <h5>This is heading 2</h5>
 <h6>This is heading 3</h6>
 
-<p>This is a paragraph tage</p>
+<p>This is a paragraph tag</p>
+<b>This is a bold tag</b>
+<i>This is a bold tag</i>
+
 ```
 
 Other common tags include the `<span>` and `<div>` tags. You can think of these as dividers within your website. 
