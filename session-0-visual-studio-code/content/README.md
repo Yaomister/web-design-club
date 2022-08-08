@@ -1,5 +1,7 @@
 # Setup
 
+**Some of the things I make you download wont be needed for a while**
+
 ## Visual Studio Code
 
 For this club, we will be using Visual Studio Code to write and compile all of our code
