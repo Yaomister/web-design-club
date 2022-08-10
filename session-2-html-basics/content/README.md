@@ -88,7 +88,3 @@ If the name attribute is omitted, the value of the input field will not be sent 
 </form>
 
 ```
-
-
-
-
