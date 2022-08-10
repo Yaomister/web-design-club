@@ -88,9 +88,3 @@ If the name attribute is omitted, the value of the input field will not be sent 
 </form>
 
 ```
-
-
-![M](https://preview.redd.it/s6vg7m59y9041.jpg?width=960&crop=smart&auto=webp&s=fcb732cbfc4318bb77113af1b7bb803165665c2d)
-
-
-
