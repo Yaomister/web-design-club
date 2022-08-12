@@ -47,19 +47,19 @@ To start using the Flexbox model, you need to first define a flex container.
 
 The `flex-direction` property defines in which direction the container wants to stack the flex items.
 
-<img src="https://css-tricks.com/wp-content/uploads/2018/10/flex-direction.svg" width="200" />
+<img src="https://css-tricks.com/wp-content/uploads/2018/10/flex-direction.svg" width="300" />
 
 Setting `flex-wrap` to `wrap`, your elements gets pushed to the next row when your elements reach the container's border.
 
 The `justify-content` property is used to align the flex items:
 
-<img src="https://css-tricks.com/wp-content/uploads/2018/10/justify-content.svg" width="200" />
+<img src="https://css-tricks.com/wp-content/uploads/2018/10/justify-content.svg" width="300" />
 
 The `align-items` and `align-content` property are also used to align the flex items:
 
-<img src="https://css-tricks.com/wp-content/uploads/2018/10/align-items.svg" width="200" />
+<img src="https://css-tricks.com/wp-content/uploads/2018/10/align-items.svg" width="300" />
 
-<img src="https://css-tricks.com/wp-content/uploads/2018/10/align-content.svg" width="200" />
+<img src="https://css-tricks.com/wp-content/uploads/2018/10/align-content.svg" width="300" />
 
 ### Perfect Centering
 
