@@ -6,7 +6,7 @@
 
 For this club, we will be using Visual Studio Code to write and compile all of our code
 
-![Meme](https://i.redd.it/57lszvgp2g421.jpg)
+![Meme](https://res.cloudinary.com/practicaldev/image/fetch/s--cuPpFfQO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://memegenerator.net/img/instances/65662553/vscode-you-were-the-chosen-one.jpg)
 
 To download it, follow this [link](https://code.visualstudio.com/download)
 
